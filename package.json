@@ -1,0 +1,17 @@
+{
+  "name": "unnamed-bot",
+  "version": "0.0.1",
+  "description": "Featured Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "//"
+  },
+  "author": "xXnikosXx",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1"
+  }
+}
